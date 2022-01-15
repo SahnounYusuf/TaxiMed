@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "694254127377",
+    "firebase_url": "https://taximed-33948.firebaseio.com",
+    "project_id": "taximed-33948",
+    "storage_bucket": "taximed-33948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694254127377:android:35d6b10931f58ba3b824b0",
+        "android_client_info": {
+          "package_name": "com.example.taximeddriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694254127377-bsp2n2hh4mdndnickl1scpmpj955shhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHVI3m7yYXS1yLnWb_-iWpqTnGQkwetI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694254127377-bsp2n2hh4mdndnickl1scpmpj955shhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694254127377:android:1f208d06f7136f22b824b0",
+        "android_client_info": {
+          "package_name": "com.example.taximedrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694254127377-bsp2n2hh4mdndnickl1scpmpj955shhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHVI3m7yYXS1yLnWb_-iWpqTnGQkwetI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694254127377-bsp2n2hh4mdndnickl1scpmpj955shhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
